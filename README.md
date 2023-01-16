@@ -36,3 +36,9 @@ Raffael Henrique <br>
 * Dica de projeto pelo Curso Data Science na Prática - [Sigmoidal](https://sigmoidal.ai/) 📢;
 * Quero agradecer ao meu amigo que me deu a dica sobre a ferramente Plotly [Saulo Eduardo](https://github.com/sauloemp) 🫂;
 * Ideia de Dashboard retirada da [Azimov](https://asimov.academy/).
+
+# Link para o projeto
+[dash-covid-19](https://covid19-dash.onrender.com/)<br>
+[notebook-projeto](https://colab.research.google.com/drive/1UTG6dyJXNHOkpBinbCETV0N5maYDtkqi?usp=sharing)
+
+Sinta-se livre para poder enviar dicas, retornos =)
