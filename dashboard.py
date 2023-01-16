@@ -27,6 +27,7 @@ select_columns = {#"location ": "Total Mundial",
 
 # =====================================================================
 app = Dash(__name__, external_stylesheets=[dbc.themes.CYBORG])
+server = app.server
 
 fig = px.choropleth_mapbox(df, locations="iso_code",
     geojson=geo_json, zoom=4, color="total_cases", color_continuous_scale="orrd", opacity=0.4,
