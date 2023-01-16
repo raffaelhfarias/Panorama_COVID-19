@@ -2,3 +2,4 @@ dash==2.7.0
 gunicorn
 pandas
 numpy
+dash_bootstrap_components
