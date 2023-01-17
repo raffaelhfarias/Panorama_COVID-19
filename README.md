@@ -4,7 +4,7 @@ O objetivo deste projeto é ¹analisar o dataset da Our World in Data sobre a CO
 
 ### 🎥 Pré-visualização
 
-![gif](https://im2.ezgif.com/tmp/ezgif-2-87c27ef2a8.gif)
+![gif](https://media3.giphy.com/media/0bqlsi3a3uOD52Fbgd/giphy.gif?cid=790b761120972c9004f22e84160dbf0433cfb8acb78751fd&rid=giphy.gif&ct=g)
 
 ### 📋 Requerimentos
 
