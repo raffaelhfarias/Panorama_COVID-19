@@ -39,6 +39,7 @@ Raffael Henrique <br>
 
 # Link para o projeto
 [dash-covid-19](https://covid19-dash.onrender.com/)<br>
-[notebook-projeto](https://colab.research.google.com/drive/1UTG6dyJXNHOkpBinbCETV0N5maYDtkqi?usp=sharing)
+[notebook-projeto](https://colab.research.google.com/drive/1UTG6dyJXNHOkpBinbCETV0N5maYDtkqi?usp=sharing)<br>
+[artigo do projeto no linkedin](https://www.linkedin.com/pulse/panorama-da-covid-19-mundo-usando-dados-raffael-henrique/)
 
 Sinta-se livre para poder enviar dicas, retornos =)
